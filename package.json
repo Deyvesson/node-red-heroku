@@ -10,6 +10,7 @@
         "node-red": "~2.x",
         "node-red-contrib-telegrambot": "^11.3.0",
         "node-red-contrib-cron-plus":"^1.5.6",
-        "node-red-node-mysql":"^1.0.1"
+        "node-red-node-mysql":"^1.0.1",
+        "node-red-contrib-serial-iterator":"^0.1.3"
     }
 }
